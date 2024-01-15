@@ -1,0 +1,2 @@
+@forge-proposal-simulator=lib/forge-proposal-simulator/
+@openzeppelin=lib/openzeppelin-contracts/contracts
